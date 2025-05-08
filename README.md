@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viella
 - 👀 I’m interested in collaborative projects
-- 🌱 I’m currently learning Erlang 
+- 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on any idea
 - 📫 How to reach me, you can reach me at iradukundavierra@gmail.com
 - 😄 Pronouns: He/him
