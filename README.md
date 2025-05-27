@@ -4,10 +4,7 @@
 - 💞️ I’m looking to collaborate on any idea
 - 📫 How to reach me, you can reach me at iradukundavierra4@gmail.com
 - 😄 Pronouns: He/him
-
-![Stars](https://img.shields.io/github/stars/unmatched78?label=Stars&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/unmatched78?label=Followers&style=for-the-badge&color=green)
-![Contributions](https://img.shields.io/github/commit-activity/y/unmatched78/unmatched78?label=Contributions&style=for-the-badge&color=orange)
+[![trophy](https://github-profile-trophy.vercel.app/?username=unmatched78&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤔 Fun Facts
 
 - I once fixed a bug by staring at the screen until it got scared and fixed itself.
