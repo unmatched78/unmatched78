@@ -5,7 +5,12 @@
 - 📫 How to reach me, you can reach me at iradukundavierra4@gmail.com
 - 😄 Pronouns: He/him
 
+## 🏆 GitHub Stats & Trophies
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmatched78&show_icons=true&theme=radical&count_private=true)](https://github.com/unmatched78)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=unmatched78&theme=radical)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=unmatched78&theme=radical&column=4&title=Stars,Followers,Repositories,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤔 Fun Facts
 
 - I once fixed a bug by staring at the screen until it got scared and fixed itself.
