@@ -15,8 +15,8 @@
 
 ## 🏆 GitHub Stats
 
-![unmatched78's GitHub stats](https://github-readme-stats.vercel.app/api?username=unmatched78&show_icons=true&theme=radical)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmatched78&show_icons=true&theme=radical&count_private=true&cache_seconds=300)](https://github.com/unmatched78)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=unmatched78&theme=radical)](https://git.io/streak-stats)
 ---
 
 > **Warning:** Contents may be hotter than your CPU under 100% load.
