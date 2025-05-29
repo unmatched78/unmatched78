@@ -6,8 +6,6 @@
 - 😄 Pronouns: He/him
 [![trophy](https://github-profile-trophy.vercel.app/?username=unmatched78&theme=radical&title=Stars,Commits,Repositories,Followers,Contributions,Languages)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤔 Fun Facts
-
-- I once fixed a bug by staring at the screen until it got scared and fixed itself.
 - Favorite commit message: “It compiles. Ship it.”
 
 ---
