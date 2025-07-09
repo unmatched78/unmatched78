@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viella
 - 👀 I’m interested in collaborative projects
-- 📫 How to reach me, you can reach me at iradukundavierra4@gmail.com
+- 📫 You can reach me at iradukundavierra4@gmail.com
 - 😄 Pronouns: He/him
 [![trophy](https://github-profile-trophy.vercel.app/?username=unmatched78&theme=radical&title=Stars,Commits,Repositories,Followers,Contributions,Languages)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤔 Fun Facts
