@@ -4,7 +4,7 @@
 - 📫 You can reach me at iradukundavierra4@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=unmatched78&theme=radical&title=Stars,Commits,Repositories,Followers,Contributions,Languages)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤔 Fun Facts
-- $\color{Blue}\Huge{\textsf{Favorite commit message: “It compiles. Ship it.”}}$ 
+- $\color{Red}\Huge{\textsf{Favorite commit message: “It compiles. Ship it.”}}$ 
 
 ---
 
