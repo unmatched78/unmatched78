@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viella
 - 👀 I’m interested in collaborative projects
-- I use mostly Typescript/Javascript, Python, Rust, and sometimes Elixir.
+- $\color{Green}\Huge{\textsf{I use mostly Typescript/Javascript, Python, Rust, and sometimes Elixir.}}$ 
 - 📫 You can reach me at iradukundavierra4@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=unmatched78&theme=radical&title=Stars,Commits,Repositories,Followers,Contributions,Languages)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🤔 Fun Facts
